@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 
-public class UIController : MonoBehaviour
+public class UIControllerInventory : MonoBehaviour
 {
 	#region Properties
 	#endregion

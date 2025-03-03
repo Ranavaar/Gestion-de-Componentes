@@ -9,7 +9,7 @@ public class EventSystem : MonoBehaviour
 	#region Fields
 	[SerializeField] private Points _points;
 	[SerializeField] private Health _payerHealth;
-	[SerializeField] private UIController _ui;
+	[SerializeField] private UIControllerInventory _ui;
 	[SerializeField] private SoundController _sound;
 	[SerializeField] private InputSystem _inputSystem;
 	#endregion
